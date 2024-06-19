@@ -1,4 +1,7 @@
 # DON-DEVIL-MD
+`important note`
+#### the code inside this repo is totally useless expect [pakeg.json](https://github.com/don-devil/DEVIL-MD/edit/main/package.json) and [Dockerfile](https://github.com/don-devil/DEVIL-MD/edit/main/Dockerfile) the whole working code is on my main  account
+#### if you want to copy this  bot or modifay it so [contact me on telegram](t.me/wasitech) i will provide you whole source code
 
 <p align="center">
   <a href="https://youtu.com/@wasitech1">
@@ -74,16 +77,6 @@
     <a href='https://render.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 
-## DEVELOPERS
-
-<div align="left">
-  <a href="https://github.com/don-devil"><img src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg" width="300" height="200" alt="Sid"></a>
-  
-  | [SIDHARTH](https://github.com/Itxxwasi) |
-  | Owner, Developer, Bug Fixer, Maintainer, updates |
-</div>
-
-
 ## Reminder
 
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!` (Though your WhatsApp account can be unbanned only once.)
@@ -96,9 +89,3 @@
 
 <br>
 
-## Contact
-
-<p align="left">
-  <a href="mailto:bsid4961@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/919142294671?text=Hi+sid+Sir...+I+need+some+help+in+DEVIL-MD"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
-</p>
