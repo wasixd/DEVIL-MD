@@ -64,7 +64,7 @@ const translateCommand = async (m, sock, config) => {
         await sock.sendMessage(m.from, { text: 'Error translating text.' }, { quoted: m });
       }
     } else {
-      const responseMessage = "Usage: /translate <target_lang> <text>\nExample: /translate en कैसे हो भाई\nOr reply to an image/text message with /translate <target_lang>";
+      const responseMessage = "Usage: /translate <target_lang> <text>\nExample: /translate en WHO IS WASI nOr reply to an image/text message with /translate <target_lang>";
       await sock.sendMessage(m.from, { text: responseMessage }, { quoted: m });
     }
   }
