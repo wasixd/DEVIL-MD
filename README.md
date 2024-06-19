@@ -1,4 +1,4 @@
-# Ethix
+# DON-DEVIL-MD
 
 <p align="center">
   <a href="https://youtu.com/@wasitech1">
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a aria-label="DEVIL-MD is free to use" href="https://youtu.com/@wasitech1" target="_blank">
-    <img alt="MH MODS OFC Yt" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
+    <img alt="WASI" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 2. Now deploy.
     <br>
-    <a href='https://heroku.com/deploy=https://github.com/don-devil/DEVIL-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://heroku.com/deploy?template=https://github.com/don-devil/DEVIL-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ### DEPLOY TO MOGINIUS
 
