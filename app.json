@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Itxxwasi/WASI-SER-BOT",
+  "repository": "https://github.com/don-devil/DEVIL-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
