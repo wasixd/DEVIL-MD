@@ -30,7 +30,7 @@ const handleRepoCommand = async (m, Matrix) => {
               text: messageText
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: "© Powered By Ethix-MD"
+              text: "© Powered By DEVIL-MD"
             }),
             header: proto.Message.InteractiveMessage.Header.create({
              ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/149eb4625a84a6666958a.jpg` } }, { upload: Matrix.waUploadToServer })),
