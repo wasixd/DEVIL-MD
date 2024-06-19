@@ -1,15 +1,15 @@
 {
-  "name": "Ethix-MD",
+  "name": "don devil",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "don devil latest multi device whatsapp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ethix-Xsid",
+  "keywords": ["don devil", "whatsapp-bot", "whatsapp md bot"],
+  "author": "wasi",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
