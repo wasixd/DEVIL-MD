@@ -74,13 +74,13 @@ const facebookCommand = async (m, Matrix) => {
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `Ethix-MD Facebook Video Download\n\n🔍 Select the desired video quality to download.\n\n📌 Choose an option to download.\n\n`
+                text: `DEVIL-MD Facebook Video Download\n\n🔍 Select the desired video quality to download.\n\n📌 Choose an option to download.\n\n`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "© Powered By Ethix-MD"
+                text: "© Powered By DEVIL-MD"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
-                 ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/fbbe1744668b44637c21a.jpg` } }, { upload: Matrix.waUploadToServer })),
+                 ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/149eb4625a84a6666958a.jpg` } }, { upload: Matrix.waUploadToServer })),
                 title: "",
                 gifPlayback: true,
                 subtitle: "",
@@ -128,7 +128,7 @@ const facebookCommand = async (m, Matrix) => {
           const fileSizeInMB = finalMediaBuffer.length / (1024 * 1024);
 
           if (fileSizeInMB <= 300) {
-            content = { video: finalMediaBuffer, mimetype: 'video/mp4', caption: '> © Powered by Ethix-MD' };
+            content = { video: finalMediaBuffer, mimetype: 'video/mp4', caption: '> © Powered by DEVIL-MD' };
             await Matrix.sendMessage(m.from, content, { quoted: m });
           } else {
             await m.reply('The video file size exceeds 300MB.');
