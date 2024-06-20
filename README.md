@@ -46,8 +46,9 @@
 <a href='https://github.com/don-devil/DEVIL-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID VIA PAIR CODE
-
-<a href='https://replit.com/@sid47/DEVIL-MD-1?v=1' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+### FIRST OF ALL OPEN GIVEN LINK AND SINGUP TO REPLIT .THEN FORK  TEMPLATE AND CLICK ON RUN BUTTON ✅
+### IF YOU FEEL NEED OF HELP [CONTACT ME AT](t.me/wasitech)
+<a href='https://replit.com/@Itxxwasi/DON-DEVIL-MD?v=1' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ### DEPLOY TO HEROKU
 
